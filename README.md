@@ -8,4 +8,4 @@ Self Registration Sample application demonstrating the Mongo, Hapi, AngularJS, N
     bower install
 
 ## Run
-    node server.js
+    node[mon] server.js
